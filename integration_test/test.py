@@ -1,7 +1,6 @@
 import httpx
 import pytest
 
-
 '''
 reference from swagger
 Request
