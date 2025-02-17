@@ -22,7 +22,7 @@ Response
     {
     "message": "User created successfully"
     }
-
+    
 '''
 
 @pytest.mark.asyncio
